@@ -1,0 +1,6 @@
+set-env.bat
+src\producer\main.go
+src\github.com
+bin
+pkg
+docker-compose.yml
